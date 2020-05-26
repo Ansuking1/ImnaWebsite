@@ -9,6 +9,7 @@
         <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
         <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       </Content>
+      <Content Include=".s2i\environment" />
     </ItemGroup>
 
 </Project>
